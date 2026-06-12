@@ -42,8 +42,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo4lvarez&repo=Olist_Data_Warehause&theme=tokyonight" />
   </a>
   
-  <a href="https://github.com/ricardo4lvarez/churn_app">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo4lvarez&repo=churn_app&theme=tokyonight" />
+  <a href="https://github.com/ricardo4lvarez/Churn_App">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo4lvarez&repo=Churn_App&theme=tokyonight" />
   </a>
 </p>
 
