@@ -24,19 +24,22 @@
 
 #### 🔧 Software & Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Microsoft_PowerBi-E9C212?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1D437D?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-F37D00?style=for-the-badge&logoColor=white)
+
 
 <br>
 
 ### 🔨 My Proyects :)
 <p align="center"> 
-  <a href="https://github.com/ricardo4lvarez/End-to-end-data-proyect">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo4lvarez&repo=End-to-end-data-proyect&theme=tokyonight" />
+  <a href="https://github.com/ricardo4lvarez/Olist_Data_Warehause">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo4lvarez&repo=Olist_Data_Warehause&theme=tokyonight" />
   </a>
   
   <a href="https://github.com/ricardo4lvarez/churn_app">
@@ -47,6 +50,9 @@
 <br>
 
 ### 📨 Let's get in touch 
+
+<h4 align="left">I'm really excited to meet you and hear about your projects and how I could help you with them. Please don't hesitate to contact me; I'll reply as soon as possible.</h4>
+
 
 <div align="center">
   <a href="mailto:ricardo4lvarez.m@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
