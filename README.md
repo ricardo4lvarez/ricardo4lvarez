@@ -3,10 +3,10 @@
 </div>
 <h1 align="center">Hi , I'm Ricardo Álvarez Murillo <img src="https://media.tenor.com/XXmdU1_Af-oAAAAj/cat-waving-hand.gif" width="35"></h1>
 <p align="center"> 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science;Data+Analyst;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Data+Analyst;Data+Engineering;Linux%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-  <h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+  <h4 align="left">I am a Data/BI enthusiast with a background in engineering, focused on Data Analytics and Data Engineering. I like to code, analyze data, build end-to-end data solutions, and experiment with new tools and technologies. I am a curious and proactive person who enjoys solving real-world problems, taking on new challenges, and continuously learning. I also enjoy sharing knowledge, collaborating with others, and turning data into meaningful insights.</h4>
 
 #### 🖥️ Languages
 
