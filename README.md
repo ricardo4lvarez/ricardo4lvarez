@@ -7,7 +7,6 @@
 </p>
 <hr/>
   <h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
 
 #### 🖥️ Languages
 
@@ -32,7 +31,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-1D437D?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### My Proyects :)
+<br>
+
+### 🔨 My Proyects :)
 <p align="center"> 
   <a href="https://github.com/ricardo4lvarez/End-to-end-data-proyect">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo4lvarez&repo=End-to-end-data-proyect&theme=tokyonight" />
@@ -43,9 +44,11 @@
   </a>
 </p>
 
-### 🔗 &nbsp;Let's get in touch 
+<br>
+
+### 📨 Let's get in touch 
 
 <div align="center">
   <a href="mailto:ricardo4lvarez.m@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/ricardo-álvarez-murillo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ricardo-álvarez-murillo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
